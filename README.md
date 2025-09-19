@@ -1,6 +1,6 @@
 # **Random_Choice_Plus**
 ###  随机点名plus版
-
+      （本仓库即将停止维护！我正在开发4.0版本，由于重构代码为OpenGL较为麻烦，新版本的发布可能会推迟，预计新的库将会叫作random_choice_plus_4）
 ![image](https://github.com/user-attachments/assets/9441861e-0761-40be-93e7-a53a8b0b6509)
 
 ### **软件亮点：**
