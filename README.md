@@ -40,7 +40,7 @@
 ```bash
 pip install pygame pywin32 PyQt5 chardet
 python plus_main.pyw
-
+```
 
 
 ## 文件说明
