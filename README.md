@@ -183,7 +183,7 @@ A: 程序可能已打包为悬浮按钮，检查系统托盘区
 
 ### 性能问题
 **Q: 程序运行卡顿**
-A: 可尝试降低动画速度或关闭随机背景功能
+A: 可尝试降低动画速度、关闭随机背景功能或者降低fps（Pygame的软件渲染就是sh*t）
 
 ---
 
@@ -218,14 +218,23 @@ A: 可尝试降低动画速度或关闭随机背景功能
 ### 联系开发者
 
 - 📧 邮箱：Macrohard0001_m01@outlook.com
-- 
-- 🐛 GitHub Issues：[提交问题](https://github.com/your-username/random-chooser-plus/issues)
+- 🐛 GitHub Issues：[提交问题](https://github.com/Macrohard0001/Random_Choice_Plus_3/issues)
+
+---
+
+## 关于新项目（Random_Choice_Plus_4）
+- 我正在用Pygame + ModernGL构建一个极轻量的渲染引擎[Awesome_OpenGL_Render_Engine](https://github.com/Macrohard0001/Awesome_OpenGL_Render_Engine)
+- 新项目RCP_4 （还没创建库……/(ㄒoㄒ)/~~）
+
+---
+
+##我正在寻求合作伙伴，有意者请联系Macrohard0001_m01@outlook.com 或直接加入我的组织Macrohard_Studio
 
 ---
 
 ## 📄 许可证
 
-本项目采用 巨硬简易许可证 开源。允许用于个人用途，但需保留原版权声明；商用需授权。
+本项目采用 巨硬简易许可证 开源。允许用于个人用途，但需保留原版权声明；商用需授权；转载请注明来源。
 
 ### 免责声明
 
@@ -234,5 +243,5 @@ A: 可尝试降低动画速度或关闭随机背景功能
 ---
 
 **开发者：** Macrohard0001  
-**文档最后更新：** 2025年1月  
+**文档最后更新：** 2025年12月10日  
 **项目状态：** 稳定可用，持续维护中
